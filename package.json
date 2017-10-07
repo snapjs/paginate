@@ -1,0 +1,24 @@
+{
+  "name": "frontend-pagination",
+  "version": "0.1.0",
+  "description": "A simple library to paginate most types of html elements on the front end.",
+  "main": "paginate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snapjs/paginate.git"
+  },
+  "keywords": [
+    "frontend",
+    "paginate",
+    "pagination"
+  ],
+  "author": "snapjs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snapjs/paginate/issues"
+  },
+  "homepage": "https://github.com/snapjs/paginate#readme"
+}

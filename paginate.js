@@ -1,3 +1,4 @@
+'use strict'
 function showPage(page) {
 	content.innerHTML = '';
 	for (var i = 0; i < elements[page].length; i++) {
@@ -41,3 +42,4 @@ function paginate(contentId,pagerId,perPage) {
 	}
 	showPage(1);
 }
+module.exports = paginate;
